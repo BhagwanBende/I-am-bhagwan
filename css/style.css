@@ -1,0 +1,302 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    
+}
+.navbar{
+    display: block;
+    background-color:pink;
+    margin:3px 3px;
+}
+ul{
+    float: right;
+    list-style: none;
+    margin: 25px;
+    
+    
+
+}
+ul li{
+
+    display: inline-block;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 30px 15px 30px;
+    
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: brown;
+    color:yellow;
+}
+.logo{
+    height: 65px;
+    width: 65px;
+    position: relative;
+    left:50px;
+    top:5px;
+}   
+.top{
+    background-color: pink;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 580px;
+    
+
+} 
+.cloud1{
+    position: relative;
+    height: 200px;
+    width: 250px;
+    left: 200px;
+    top:300px;
+}
+.name{
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    color: purple;
+}
+.intro{
+    font-family: cursive;
+    text-align: center;
+    color: purple;
+}
+.cloud2{
+    position: relative;
+    width: 250px;
+    height: 200px;
+    left: 900px;
+    bottom: 950px;
+
+}
+.mountain{
+    width: 900px;
+    height: 250;
+    position: relative;
+    right: 45px;
+
+}
+.mid{
+    position: relative;
+    width: 100%;
+    
+    
+    padding-top: 0px;
+    overflow: hidden;
+    background-color:cyan;
+    
+    
+
+}
+.boy1{
+    display: inline-block;
+    margin-top: 200px;
+    width: 85px;
+    height: 85px;
+    position: relative;
+    bottom: 150px;
+    left: 650px;
+    
+
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    color: purple;
+    display: inline-block;
+    left: 670px;
+
+    
+}
+.description{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    bottom: 160px;
+    display: inline-block;
+    left: 400px;
+   
+
+}
+.title1{
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    left: 600px;
+    color: purple;
+    bottom:140px;
+    font-style: solid;
+}
+.boy2{
+    display: inline-block;
+    height: 85px;
+    width: 85px;
+    position: relative;
+    left: 300px;
+    bottom: 130px;
+}
+.pencil1{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    bottom: 150px;
+
+}
+.title2{
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    left: 460px;
+    bottom: 200px;
+    color: navy;
+
+
+
+}
+.description1{
+    display: inline-block;
+    position: relative;
+    font-size: 15px;
+    left: 460px;
+    bottom: 220px;
+}
+.title3{
+    text-align: center;
+    display: inline-block;
+    font-size:20px;
+    left: 290px;
+    position: relative;
+    bottom: 200px;
+    color: navy;
+}
+.description2{
+    display: inline-block;
+    position: relative;
+    font-size: 15px;
+    bottom: 120px;
+    right: 25px;
+
+}
+.boy3{
+    display: inline-block;
+    height: 85px;
+    width: 85px;
+    position: relative;
+    bottom: 140px;
+    left: 140px;
+
+}
+.mobile{
+    display: inline-block;
+    height: 40px;
+    width: 50px;
+    position: relative;
+    bottom: 150px;
+    right: 40px;
+}
+.title4{
+    font-size: 25px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 600px;
+    bottom: 120px;
+    color: purple;
+
+
+
+}
+.intro1{
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 410px;
+    bottom: 90px;
+    font-size: 20px;
+    color: navy;
+}
+.description3{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    right: 150px;
+    bottom: 10px;
+
+}
+.message{
+    color: black;
+    background-color:yellow;
+    font-family: 'Courier New', Courier, monospace;
+    right: 550px; 
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    margin: 24px 0 0;
+    border-radius: 5px;
+    border: 0;
+    text-transform: uppercase;
+    bottom: -5px;
+    
+    position: relative;
+
+
+
+
+}
+.contact{
+    height: 15px;
+    width: 15px;
+    right: 700px;
+    position: relative;
+    bottom:-8px;
+
+   
+}
+.foot{
+    display: block;
+    background-color: pink;
+    position: relative;
+    height: 180px;
+
+}
+.socialmedia{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    color: rebeccapurple;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    right: 20px;
+    top: 70px;
+
+
+
+}
+.socialmedia1{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    color: rebeccapurple;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    right:20px;
+    top:60px;
+
+
+}

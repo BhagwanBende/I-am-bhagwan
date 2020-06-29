@@ -1,0 +1,212 @@
+body{
+    margin:0px;
+    
+
+}
+.navbar{
+    display: block;
+    background-color:pink;
+    margin:3px 3px;
+}
+ul{
+    float: right;
+    list-style: none;
+    margin: 25px;
+    
+    
+
+}
+ul li{
+
+    display: inline-block;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 30px 15px 30px;
+    
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: brown;
+    color:yellow;
+}
+.logo{
+    height: 65px;
+    width: 65px;
+    position: relative;
+    left:50px;
+    top:5px;
+}
+.notetop{
+    display: inline-block;
+    position: relative;
+    background-color: pink;
+    width: 100%;
+    height: 275px;
+}
+.cloud1{
+    position: relative;
+    height: 200px;
+    width: 250px;
+    left: 200px;
+    bottom: 10px;
+}
+.note{
+    position: relative;
+    text-align: center;
+    color: purple;
+    bottom:120px
+
+}
+.cloud2{
+    
+    position: relative;
+    height: 200px;
+    width: 250px;
+    left: 900px;
+    bottom: 300px;
+
+}
+.flag1{
+position: relative;
+width: 60px;
+height:80px;
+bottom: 210px;
+left: 200px;
+}
+.flag2{
+position: relative;
+width: 60px;
+height:80px;
+bottom: 210px;
+left: 550px;
+
+}
+.mid{
+    position: relative;
+    width: 100%;
+
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    color: purple;
+    font-size: 35px;
+    position: relative;
+    text-align: center;
+    left: 530px;
+    bottom: 160px;
+}
+
+.heading1
+     {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    position: relative;
+    color:navy;
+    left: 550px;
+    bottom: 190px;
+
+   
+}
+.heading2{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    position: relative;
+    color: navy;
+    font-size: 20px;
+    left: 400px;
+    bottom: 250px;
+}
+.description{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    position: relative;
+    color: navy;
+    font-size: 15px;
+    left: 300px;
+    bottom: 280px;
+}
+.heading3{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    position: relative;
+    color: purple;
+    font-size: 30px;
+    left: 600px;
+    bottom: 180px;
+}
+.title1{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    color: navy;
+    position: relative;
+    font-size: 25px;
+    left: 300px;
+    bottom: 140px;
+}
+.description1{
+    display: inline-block;
+    color: navy;
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+}
+.message{
+    color: black;
+    background-color:yellow;
+    font-family: 'Courier New', Courier, monospace;
+    left: 60px; 
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    margin: 24px 0 0;
+    border-radius: 5px;
+    border: 0;
+    text-transform: uppercase;
+    bottom: 85px;
+    
+    position: relative;
+}
+.contact{
+    height: 15px;
+    width: 15px;
+    right: 90px;
+    position: relative;
+    bottom:80px;
+}
+.foot{
+    display: block;
+    background-color: pink;
+    position: relative;
+    height: 180px;
+
+}
+.socialmedia{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    color: rebeccapurple;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    right: 20px;
+    top: 70px;
+}
+.socialmedia1{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    color: rebeccapurple;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    right:20px;
+    top:60px;
+
+
+}
